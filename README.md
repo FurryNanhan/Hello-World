@@ -1,4 +1,4 @@
-# Hello World!
+# Hello World
 
 ## 挑战用**各种语言**输出“Hello World!”
 

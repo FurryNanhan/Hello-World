@@ -16,6 +16,14 @@
 	- (迄今为止短的语言)
 - `Java`
 	- (这是一杯咖啡)
+- `JavaScript`
+	- (长度跟Python坐一桌)
+- `Go`
+	- (长度比Java良心)
+- `CSS`
+	- (请输入文本)
+- `Rust`
+	- (长度跟JavaScript坐一桌)
 	
 ---
 

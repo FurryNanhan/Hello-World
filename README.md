@@ -12,6 +12,8 @@
 	- (🧊🧊🧊)
 - `Assembly`
 	- (Linux x86_64 NASM)
+- `Python`
+	-（迄今为止短的语言）
 	
 ---
 
